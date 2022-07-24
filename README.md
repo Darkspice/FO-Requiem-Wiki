@@ -2,4 +2,4 @@
 
 Это вики сервера Requiem игры Fallout Online
 
-Ссылка на вики: https://darkspice.github.io/FO-Requiem-wiki/
+Ссылка на вики: https://darkspice.github.io/FO-Requiem-Wiki/
