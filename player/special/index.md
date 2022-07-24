@@ -1,7 +1,7 @@
 # S.P.E.C.I.A.L.
 
-<details>
-  <summary>Содержимое</summary>
+<details markdown="1">
+  <summary markdown="span">Содержимое</summary>
 
   - [Основная информация](#основная-информация)
   - [Сила](#сила)
