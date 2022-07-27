@@ -5,3 +5,4 @@
 - [Трейты](player\traits)
 - [Перки](player\perks)
 - [Навыки](player\skills)
+- [Производные характеристики](player\params)
