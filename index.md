@@ -10,4 +10,5 @@
 - [Реролл персонажа](player/reroll)
 
 # Игровой мир
-- [Глобальная карта](game-world/global-map/)
+- [Глобальная карта](game-world/global-map)
+- [Транспорт](game-world/transport)
