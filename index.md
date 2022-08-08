@@ -6,6 +6,8 @@
 - [Перки](player/perks)
 - [Навыки](player/skills)
 - [Производные характеристики](player/params)
+- [Медали](player/medals)
+- [Реролл персонажа](player/reroll)
 
 # Игровой мир
 - [Глобальная карта](game-world/global-map/)
